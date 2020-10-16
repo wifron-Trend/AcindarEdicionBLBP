@@ -1,0 +1,19 @@
+● src
++---● app
+|   +--● lamblbp-details
+|   |  |--lamblbp-details.component.ts|.html|.css
+|   |  +--● lamblbp-detail
+|   |  |  |--lamblbp-detail.component.ts|.html|.css
+|   |  |
+|   |  +--● lamblbp-detail-list
+|   |  |  |--lamblbp-detail-list.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--lamblbp-detail.service.ts
+|   |     |--lamblbp-detail.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap & fa icons)
+
+wrodriguez@trendingenieria.com.ar.
